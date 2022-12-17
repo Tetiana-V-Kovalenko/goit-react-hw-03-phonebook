@@ -1,0 +1,17 @@
+.form {
+    margin: 0 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    
+}
+.inputPhonebook{
+display: flex;
+width: 20% ;
+justify-content: space-between;
+}
+.btnAddContact{
+    padding: 5px;
+width: 20%;
+}
